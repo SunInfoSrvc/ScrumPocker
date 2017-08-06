@@ -1,0 +1,47 @@
+<!--pocker.wxml-->
+<view class="classname" style="text-align:center;">
+  <view>
+    <view>
+      <text>SessionId</text>
+    </view>
+    <view>
+      <text>MyName</text>
+    </view>
+    <view style="text-align:center;">
+      <textarea style="border:solid 1px;margin:10rpx auto;" placeholder="Story" />
+    </view>
+  </view>
+
+
+  <view style="text-align:center;">
+    <view>
+      <button size="mini" type="primary">0</button>
+      <button size="mini" type="primary">0.5</button>
+      <button size="mini" type="primary">1</button>
+      <button size="mini" type="primary">2</button>
+    </view>
+
+    <view>
+      <button size="mini" type="primary">3</button>
+      <button size="mini" type="primary">5</button>
+      <button size="mini" type="primary">8</button>
+      <button size="mini" type="primary">13</button>
+    </view>
+
+    <view>
+      <button size="mini" type="primary">20</button>
+      <button size="mini" type="primary">40</button>
+      <button size="mini" type="primary">100</button>
+      <button size="mini" type="primary">?</button>
+    </view>
+  </view>
+
+
+  <view style="text-align:center;">
+    <button size="mini" type="primary">清除</button>
+    <button size="mini" type="primary">显示</button>
+    <button size="mini" type="primary">休息</button>
+    <button size="mini" type="primary">转发</button>
+  </view>
+<view class="classname">统计和列表</view>
+</view>
